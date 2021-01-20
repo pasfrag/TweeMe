@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom Paschalis
+main.py
+glove.twitter.27B.200d.txt
+saved-models/
+pickles/
+
